@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Anraj Singh Dhanju`
+- **CCID:** `anraj`
 
 ## References and Resources
 
